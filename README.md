@@ -1,1 +1,1 @@
-Dump folder for storing stuff.
+Dump folder for storing things.
